@@ -1,6 +1,7 @@
 # Reactjs
 ## VS Code Reactjs snippets
 -------------------
+# This fork removes semicolons from snippets
 
 [![Version](http://vsmarketplacebadge.apphb.com/version/xabikos.ReactSnippets.svg)](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
 [![Installs](http://vsmarketplacebadge.apphb.com/installs/xabikos.ReactSnippets.svg)](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
