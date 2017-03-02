@@ -1,7 +1,7 @@
 {
     "name": "ReactSnippetsWithoutSemicolons",
     "description": "Code snippets for Reactjs development in ES6 syntax WITHOUT semicolons",
-    "version": "1.3.0",
+    "version": "1.3.1",
     "displayName": "Reactjs code snippets WITHOUT semicolons",
     "publisher": "notgiorgi",
     "icon": "images/react.png",
