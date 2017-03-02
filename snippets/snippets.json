@@ -260,7 +260,7 @@
         "description": "React-redux connect boilerplate"
     },
     "reduxReducer": {
-        "refix": "reducer",
+        "prefix": "reducer",
         "body": "import { actions } from '../constants'\n\nexport const initial = {}\n\nexport default function (state = initial, { type, payload }) {\n    switch (type) {\n        case actions.${0:ACTION_NAME}:\n        default:\n            return state\n    }\n}",
         "description": "Reducer boilerplate"
     }
